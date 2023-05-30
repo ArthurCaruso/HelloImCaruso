@@ -7,7 +7,7 @@ Here are some tests, studies, codes and documents that summarize my study and le
 
 
 
-*Portfolio:*
+**Portfolio:**
 
 https://arthurcaruso.github.io/MTG_Counter/ (in progress)
 
