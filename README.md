@@ -16,6 +16,8 @@ https://arthurcaruso.github.io/MTG_Counter/ (in progress)
 
 https://arthurcaruso.github.io/ScoreKeeper/
 
+https://arthurcaruso.github.io/Simple_Calculator/
+
 
 
 **Tests:**
