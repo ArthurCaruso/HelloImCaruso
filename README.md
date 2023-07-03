@@ -7,8 +7,7 @@ Here are some tests, studies, codes and documents that summarize my study and le
 
 
 
-**Portfolio:**
-https://arthurcaruso.github.io/StructuraDesign/
+>**Portfolio:**<br />https://arthurcaruso.github.io/StructuraDesign/
 
  <br />
 
