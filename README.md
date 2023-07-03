@@ -15,9 +15,13 @@ Here are some tests, studies, codes and documents that summarize my study and le
 
 
 >**Simple exercises:**
+><br />
 >https://arthurcaruso.github.io/ScoreKeeper/
+><br />
 >https://arthurcaruso.github.io/Simple_Calculator/
+><br />
 >https://arthurcaruso.github.io/MTG_Counter/ (in progress)
+><br />
 >https://arthurcaruso.github.io/mikesShoesWebStore/#
 
 
