@@ -10,9 +10,9 @@ Here are some tests, studies, codes and documents that summarize my study and le
 >**Portfolio:**
 ><br />
 >https://arthurcaruso.github.io/myPortifolio/
-
  <br />
 >**Projects**
+>><br />
 >https://arthurcaruso.github.io/StructuraDesign/
 
 >**Simple exercises:**
