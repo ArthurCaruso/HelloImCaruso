@@ -16,6 +16,7 @@ Here are some tests, studies, codes and documents that summarize my study and le
 ><br />
 >https://arthurcaruso.github.io/StructuraDesign/
  <br />
+ 
 >**Simple exercises:**
 ><br />
 >https://arthurcaruso.github.io/ScoreKeeper/
@@ -25,7 +26,7 @@ Here are some tests, studies, codes and documents that summarize my study and le
 >https://arthurcaruso.github.io/MTG_Counter/ (in progress)
 ><br />
 >https://arthurcaruso.github.io/mikesShoesWebStore/#
-
+ <br />
 
 **Tests:**
 
