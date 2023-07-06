@@ -11,10 +11,11 @@ Here are some tests, studies, codes and documents that summarize my study and le
 ><br />
 >https://arthurcaruso.github.io/myPortifolio/
  <br />
+ 
 >**Projects**
->><br />
+><br />
 >https://arthurcaruso.github.io/StructuraDesign/
-
+ <br />
 >**Simple exercises:**
 ><br />
 >https://arthurcaruso.github.io/ScoreKeeper/
