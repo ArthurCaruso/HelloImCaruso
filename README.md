@@ -15,8 +15,9 @@ Here are some tests, studies, codes and documents that summarize my study and le
 ><br />
 >https://arthurcaruso.github.io/StructuraDesign/
  <br />
+>https://arthurcaruso.github.io/WeatherApp/
  
->**Simple exercises:**
+>**exercises:**
 ><br />
 >https://arthurcaruso.github.io/ScoreKeeper/
 ><br />
