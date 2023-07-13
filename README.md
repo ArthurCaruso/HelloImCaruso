@@ -14,8 +14,10 @@ Here are some tests, studies, codes and documents that summarize my study and le
 >**Projects**
 ><br />
 >https://arthurcaruso.github.io/StructuraDesign/
- <br />
+><br/>
 >https://arthurcaruso.github.io/WeatherApp/
+ <br />
+
  
 >**exercises:**
 ><br />
